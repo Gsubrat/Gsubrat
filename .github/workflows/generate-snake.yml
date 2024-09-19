@@ -19,14 +19,18 @@ jobs:
           github_user_name: Gsubrat  # Replace 'Gsubrat' with your GitHub username
           outputs: snake.svg
 
+      - name: List files in root
+        run: ls -l
+
       - name: Create directory
         run: mkdir -p dist
 
       - name: Move Snake to dist
-        run: mv snake.svg dist/snake.svg
+        run: |
+          if [ -f snake.svg ]; then mv snake.svg dist/snake.svg; else echo "snake.svg not found"; fi
 
-      - name: List files
-        run: ls -R dist
+      - name: List files in dist
+        run: ls -l dist
 
       - name: Add and commit the generated file
         run: |
