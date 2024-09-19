@@ -38,9 +38,9 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
   <a href="https://www.linkedin.com/in/subrat-g158" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+<!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+ <!-- </a> -->
 </div>
 
  <hr/>
@@ -77,14 +77,7 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169452.png" alt="jupyter" style="width:48px; height:48px;" />
 <img src="https://img.icons8.com/color/48/61466/intellij-idea.png" alt="intellij" style="width:48px; height:48px;" />
 
-</div>
-<br/>
 
-
-<hr/>
-
-
-<hr/>
 
 <hr>
 
