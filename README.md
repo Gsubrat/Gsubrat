@@ -95,7 +95,7 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 
 
 
-![Arya's Stats](https://github-readme-stats.vercel.app/api?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+![Subrat's Stats](https://github-readme-stats.vercel.app/api?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&count_private=true)
 
 
 <hr>
@@ -108,18 +108,9 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 
  <!--![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)-->
 
- ![Arya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+ ![Subrat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
 
 
-<hr>
-
-
-
-
-
-
-
-<hr>
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
 
@@ -137,9 +128,4 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 </div>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
