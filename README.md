@@ -83,13 +83,6 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gsubrat/Gsubrat/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -121,6 +114,13 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 <hr>
 
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gsubrat/Gsubrat/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
@@ -129,7 +129,7 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aryapratapsingh1?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Subrat_0803?ext=activity)
 
 
 <hr>
