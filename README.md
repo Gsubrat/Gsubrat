@@ -93,18 +93,48 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Gsubrat.vercel.app/?user=Gsubrat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Gsubrat.vercel.app/api?username=Gsubrat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Gsubrat.vercel.app/api/top-langs/?username=Gsubrat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<hr>
+
+<div align="center"><h3><b>GitHub Stats</b></h3></div>
+<div align="center">
+
+[![Subrat's github activity](https://github-readme-activity-graph.vercel.app/graph?username=Gsubrat&theme=github-compact)]()
+
+
+
+![Arya's Stats](https://github-readme-stats.vercel.app/api?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&count_private=true)
+
+
+<hr>
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArkS0001&theme=transparent&count_private=true)](https://git.io/streak-stats)-->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gsubrat&theme=transparent&count_private=true)](https://git.io/streak-stats)
+
+
+<hr>
+
+ <!--![Aakarshit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkS0001&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)-->
+
+ ![Arya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsubrat&theme=transparent&show_icons=true&hide_border=false&layout=compact&count_private=true)
+
+
+<hr>
+
+
+
+
+
+
+<hr>
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/XxArksxX?ext=activity)-->
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aryapratapsingh1?ext=activity)
+
+
+<hr>
+
 </div>
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 
