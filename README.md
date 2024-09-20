@@ -25,7 +25,7 @@ Competitive coding has further sharpened my problem-solving abilities, helping m
  
 🔍📚 I’m currently learning **Machine Learning, Advanced Data Structures and Algorithms, Web Development, and Database Management.**
 
-💬🧠 Ask me about **Web Development, Competitive Programming... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬🧠 Ask me about **Web Development, Competitive Programming... or anything [here](https://github.com/Gsubrat/Gsubrat/issues)**
 
 ⚡👨🏻‍💻 I’m currently open for: **Internship opportunities, collaborative projects, and job offers in software development.**
 
